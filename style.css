@@ -1,0 +1,51 @@
+body{
+    background-color: #008552;
+    font-family: Arial, sans-serif;
+}
+
+.div1{
+    width: 400px;
+    height: 400px;
+    margin: 150px auto;
+    /* border: 2px solid red;    */
+    background-color: white;
+    border-radius: 20px;
+}
+
+.div1 input{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    margin: 19px 0px 0px 100px;
+}
+
+.div1 input::placeholder{
+    padding: 0px 0px 0px 10px;
+}
+
+.div1 h1{
+    text-align: center;
+    /* color: #008552; */
+    margin-top: 50px;
+}
+
+.div1 .button1{
+    border-radius: 70px;
+    width: 80px;
+    height: 50px;
+    background-color: green;
+    color: white;
+    margin: 0px 0px 0px 160px;
+    border: none;
+}
+
+.div2 .currency1{
+    margin: 100px 0px 0px 100px;
+}
+.div2 .currency2{
+    margin: 0px 0px 0px 80px;
+}
+
+.div1 .result{
+    margin: 80px 0px 20px 100px;
+}
